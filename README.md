@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **a good project**
 
-- 🤝 I’m looking for help with **a good work**
+- 🤝 I’m looking **a good work**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VallesCris](https://github.com/VallesCris)
 
